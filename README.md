@@ -87,21 +87,6 @@ My work sits at the intersection of **Formal Methods, Cloud Security, and Determ
 <hr/>
 
 <div align="center">
-  <h2><code>[ FLAGSHIP SYSTEMS & RESEARCH REPOSITORIES ]</code></h2>
-</div>
-
-```text
-├── 🛡️ sentinel-mesh                     # Neuro-symbolic framework coupling LLMs with Z3 SMT for cloud remediation
-├── 🔍 browser-forensics-reconstruction   # Deterministic DFIR log timeline reconstruction engine (Gemini + Heuristics)
-├── 📄 vektor-ats-diagnostics            # High-performance Document-VQA semantic evaluation engine for enterprise HR
-├── 🚨 aegis-realtime-voice-dispatch     # Low-latency streaming vocal command analysis & geospatial emergency routing
-├── 💰 Financial-Profitability-Guardrail # Postgres state machine & DLQ monitor ensuring 100% financial data integrity
-└── ☁️ Cloud-Security-Audit-Platform      # Event-driven AWS security audit pipeline against 50+ CIS benchmarks
-```
-
-<hr/>
-
-<div align="center">
   <h2><code>[ CONNECT & COLLABORATE ]</code></h2>
 
   <p>
