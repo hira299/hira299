@@ -1,111 +1,74 @@
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9054c6da-dd13-4ebd-966f-e36f1356eb3b" alt="banner" width="100%" />
-
-<!-- ============================================================ -->
-<!-- 🟣 TYPING ANIMATION 🟣 -->
-<!-- ============================================================ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=800&color=B19CD9&center=true&vCenter=true&width=1000&lines=AI+Automation+%26+Backend+Engineer;Agentic+Systems+%26+RAG+Architecture;LangGraph+%7C+n8n+%7C+AWS+%7C+FastAPI;Building+Deterministic%2C+Hallucination-Free+AI)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY%20RESEARCHER-1C1C1C?style=for-the-badge&logo=shield&logoColor=B19CD9&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/IEEE%20PEER%20REVIEWER-1C1C1C?style=for-the-badge&logo=ieee&logoColor=B19CD9&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/FORMAL%20METHODS%20%2B%20NEURO--SYMBOLIC%20AI-1C1C1C?style=for-the-badge&logoColor=B19CD9&labelColor=1a1a2e" />
-</p>
-
-<!-- ============================================================ -->
-<!-- 🌙 MOON GIF — put your purple/lavender moon gif here 🌙 -->
-<!-- ============================================================ -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-Open%20to%20Remote-B19CD9?style=for-the-badge&labelColor=1a1a2e" />
-</p>
-
-<p align="center">
-  <a href="mailto:hira229922@gmail.com"><img src="https://img.shields.io/badge/Email-hira229922%40gmail.com-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://linkedin.com/in/hira-a-4068402a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-9370DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://github.com/hira299"><img src="https://img.shields.io/badge/GitHub-hira299-9370DB?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://orcid.org/0009-0005-3219-7252"><img src="https://img.shields.io/badge/ORCID-0009--0005--3219--7252-9370DB?style=for-the-badge&logo=orcid&logoColor=white&labelColor=1a1a2e" /></a>
-</p>
-
-### ABOUT ME
-
-```yaml
-name: Hira Ahmed
-role: AI Systems & Automation Engineer | Cybersecurity Researcher
-focus: Multi-agent architectures, deterministic RAG pipelines, cloud security automation
-research: Neuro-symbolic AI — coupling neural LLM generation with Z3 SMT formal verification
-          to guarantee provably correct, hallucination-free execution
-credentials: Lead Author @ IEEE Transactions on Cloud Computing (under review)
-             Invited Peer Reviewer @ IEEE Access (Web of Science, ResearcherID QIV-1552-2026)
-             Creator of CloudFix-Bench — 105 verified cloud security benchmarks (Zenodo)
-education: B.S. Cybersecurity @ Sir Syed University of Engineering & Technology (SSUET)
-believes_in: Zero-hallucination AI, citation-enforced retrieval, async-first backends
-```
-
-### RESAERCH & CITABLE ARTIFACTS
-
-**Lead Author, "Sentinel-Mesh: A Neuro-Symbolic Framework for Formally Verified Remediation of Cloud Misconfigurations"**
-Coupled LLM patch synthesis with Z3 SMT verification, achieving an 83.81% remediation rate across 105 AWS cases with a 0% regression rate. Manuscript under review at IEEE Transactions on Cloud Computing (ID: TCC-2026-08-0693).
-
-**CloudFix-Bench** : open-source benchmark of 105 verified cloud security cases, archived on Zenodo.
-
-**Verified Peer Reviewer, IEEE Access** : invited by an Associate Editor to review 5 international manuscripts on AI privacy, vision transformers, and access control.
-
-<p>
-  <a href="https://doi.org/10.21203/rs.3.rs-10674271/v1"><img src="https://img.shields.io/badge/Preprint-Research%20Square-9370DB?style=for-the-badge&logo=doi&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://doi.org/10.5281/zenodo.20975067"><img src="https://img.shields.io/badge/Dataset-Zenodo-9370DB?style=for-the-badge&logo=zenodo&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://www.webofscience.com"><img src="https://img.shields.io/badge/Web%20of%20Science-5%20Verified%20IEEE%20Reviews-9370DB?style=for-the-badge&logo=clarivate&logoColor=white&labelColor=1a1a2e" /></a>
-</p>
-
-### TECH STACK
-
-**Languages**
-
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,bash,postgresql,flutter,nextjs,java,html,css&theme=dark" />
-
-**AI / LLM / Agentic Frameworks**
-
-
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=for-the-badge&logo=llama&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/OpenAI%20GPT--4o-1C1C1C?style=for-the-badge&logo=openai&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Anthropic%20Claude-1C1C1C?style=for-the-badge&logo=anthropic&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Meta%20Llama-1C1C1C?style=for-the-badge&logo=meta&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Groq-1C1C1C?style=for-the-badge&logo=groq&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Corrective%20RAG%20(CRAG)-1C1C1C?style=for-the-badge&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Z3%20SMT%20Solver-1C1C1C?style=for-the-badge&logo=codeforces&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/pgvector-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/FastEmbed-1C1C1C?style=for-the-badge&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/PyMuPDF-1C1C1C?style=for-the-badge&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Tavily%20AI-1C1C1C?style=for-the-badge&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/JSON--Mode-1C1C1C?style=for-the-badge&logoColor=B19CD9" />
-</p>
-
-**Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,nodejs,aws,docker,terraform,linux,git,github,githubactions,postman&theme=dark" />
-
-
-
-**Databases & Storage**
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,dynamodb,redis&theme=dark" />
-
-**Automation, Orchestration & Testing**
-
-<p>
-<img src="https://img.shields.io/badge/n8n-1C1C1C?style=for-the-badge&logo=n8n&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Make.com-1C1C1C?style=for-the-badge&logo=make&logoColor=B19CD9" />
-<img src="https://img.shields.io/badge/Playwright-1C1C1C?style=for-the-badge&logo=playwright&logoColor=B19CD9" />
-</p>
-
-*Also:* Async State Machines · Concurrency Locks · Dead Letter Queues (DLQ) · Agentic Workflows
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=1500&color=7B4FB5&center=true&vCenter=true&width=1000&lines=System+idle...+awaiting+next+deploy" alt="footer" />
+<img src="https://github.com/user-attachments/assets/9054c6da-dd13-4ebd-966f-e36f1356eb3b" alt="Hira Ahmed banner" width="100%" />
 </div>
+
+# Hira Ahmed
+
+**AI Engineer | AI Automation & QA Engineer**
+
+I build AI automation, AI agents, and LLM pipelines that keep working when models, APIs, and data misbehave. Most of my work sits where AI meets backend and cloud engineering: n8n workflows, Python services, PostgreSQL state, and AWS. QA and reliability engineering is the thread through all of it. I test the systems I build the way I test other people's: at the boundaries, at the API, and on the failure paths.
+
+Karachi, Pakistan. Open to remote work.
+
+[Portfolio](https://hira299.github.io/) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [Email](mailto:hira229922@gmail.com) · [ORCID](https://orcid.org/0009-0005-3219-7252)
+
+## What I work on
+
+- **AI automation and agents:** stateful agents, tool-using workflows, structured LLM output with validation, retries, and human escalation
+- **n8n and workflow automation:** self-hosted n8n, PostgreSQL-backed workflow state, dead-letter queues, idempotent writes, Make.com
+- **LLM systems:** multi-stage LLM pipelines, RAG and Corrective RAG, LangGraph, LangChain, Groq, Gemini, OpenRouter
+- **Backend and cloud:** Python, FastAPI, PostgreSQL, Supabase, Docker, AWS (EC2, Lambda, EventBridge, SQS, RDS, S3), Terraform
+- **QA and reliability:** B2B SaaS QA, API testing, multi-tenant isolation, RBAC, business-logic and financial-integrity testing
+
+## Professional work (TechPotion.ai)
+
+Production work as Backend & AI Automation Engineer. Client and internal details are not published.
+
+- **[28K+ production AI enrichment pipeline](https://hira299.github.io/case-studies/28k-record-pipeline/):** status-driven PostgreSQL pipeline with 4 sequential LLM stages (including translation into 9 languages) over 28,000+ records; 5.6x processing speedup, as reported
+- **[AWS infrastructure and cost optimization](https://hira299.github.io/case-studies/aws-cost-optimization/):** monthly AWS costs for the same platform reduced by 34%
+- **[Multi-tenant B2B SaaS QA](https://hira299.github.io/case-studies/multitenant-saas-qa/):** lead QA on PharmaConnect across 20 end-to-end journeys and 6 roles; 80+ defects documented with API-level evidence and 11 critical P1 findings
+- 678+ defects identified and documented across all of my QA engagements
+
+## Research: Sentinel-Mesh and CloudFix-Bench
+
+**Sentinel-Mesh** is a research framework for remediating Terraform cloud-security misconfigurations. An LLM proposes a candidate patch; a Z3 SMT verifier checks it against explicit security invariants defined in a Cloud Perimeter Model; a rejected patch's counterexample is fed back to the model for another attempt. The model only proposes. The verifier decides.
+
+- **CloudFix-Bench:** 105 AWS Terraform misconfiguration cases, archived on Zenodo for reproducibility
+- **Results on that benchmark:** 88/105 cases remediated (83.81%, 95% Wilson interval 75.59% to 89.64%), against 64.76% without counterexample feedback and 35.24% for a Checkov baseline
+- **No security regressions observed** against the modeled invariants (0.0%, 95% interval 0.00% to 3.45%)
+- **Scope:** formal guarantees hold only within the Cloud Perimeter Model. Properties outside it, such as WAF associations or logging policies, are checked by the verifier without a formal proof certificate, and an external set of 12 cases reached 6/12.
+
+Preprint on Research Square, manuscript under review. Lead author.
+
+[Research Square preprint](https://www.researchsquare.com/article/rs-10674271/latest) · [CloudFix-Bench on Zenodo](https://doi.org/10.5281/zenodo.20975067) · [Code](https://github.com/hira299/sentinel-mesh) · [Technical article on Medium](https://medium.com/@hira299/beyond-heuristics-formally-verifying-ai-generated-infrastructure-with-z3-smt-solvers-e95fd3a7bf95)
+
+Also: peer reviewer for IEEE Access (5 verified reviews on [Web of Science](https://www.webofscience.com/wos/author/record/QIV-1552-2026)). B.S. Cybersecurity, Sir Syed University of Engineering & Technology.
+
+## Selected independent builds
+
+| Project | What it shows |
+|---|---|
+| [AI-Autonomous-Email-Agent](https://github.com/hira299/AI-Autonomous-Email-Agent) | Stateful n8n email agent with per-thread memory and Groq inference |
+| [Cloud-Security-Audit-Compliance-Automation-Platform](https://github.com/hira299/Cloud-Security-Audit-Compliance-Automation-Platform) | AWS audit pipeline with a persistent audit trail and a DLQ replay workflow |
+| [Financial-Profitability-Guardrail](https://github.com/hira299/Financial-Profitability-Guardrail) | PostgreSQL state machine that alerts only on state transitions |
+| [Autonomous-Competitor-Intelligence-SEO-Pipeline](https://github.com/hira299/Autonomous-Competitor-Intelligence-SEO-Pipeline) | Scheduled AI pipeline with defensive JSON parsing and a scraper DLQ |
+| [Cloud-Cost-Sentinel](https://github.com/hira299/Cloud-Cost-Sentinel) | AWS cost anomaly detection with a rolling baseline |
+| [vektor-ats-diagnostics](https://github.com/hira299/vektor-ats-diagnostics) | Multimodal document parsing and weighted evaluation engine |
+| [browser-forensics-reconstruction](https://github.com/hira299/browser-forensics-reconstruction) | DFIR tool that reconstructs browser session timelines |
+| [aegis-realtime-voice-dispatch](https://github.com/hira299/aegis-realtime-voice-dispatch) | Real-time voice command dispatch dashboard |
+
+## Open technical resources
+
+- [n8n-production-resilience-patterns](https://github.com/hira299/n8n-production-resilience-patterns): retries, dead-letter queues, idempotency, replay, and explicit state for self-hosted n8n
+- [enterprise-multitenant-qa-matrix](https://github.com/hira299/enterprise-multitenant-qa-matrix): test matrices and checklists for multi-tenant isolation, RBAC, APIs, and business logic
+
+## Hire me
+
+I take on remote projects in:
+
+- AI automation and API integrations
+- n8n workflows (cloud or self-hosted)
+- AI agents and LLM pipelines
+- B2B SaaS QA, API testing, and multi-tenant testing
+
+[Portfolio](https://hira299.github.io/) · [Upwork](https://www.upwork.com/freelancers/~0178616a4e00b82166) · [Fiverr](https://www.fiverr.com/hira299) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [hira229922@gmail.com](mailto:hira229922@gmail.com)
