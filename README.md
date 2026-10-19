@@ -4,13 +4,13 @@
 
 # Hira Ahmed
 
-**AI Engineer | AI Automation & QA Engineer**
+**AI Engineer | Systems QA Lead**
 
 I build AI automation, AI agents, and LLM pipelines that keep working when models, APIs, and data misbehave. Most of my work sits where AI meets backend and cloud engineering: n8n workflows, Python services, PostgreSQL state, and AWS. QA and reliability engineering is the thread through all of it. I test the systems I build the way I test other people's: at the boundaries, at the API, and on the failure paths.
 
-Karachi, Pakistan. Open to remote work.
+Karachi, Pakistan. Open to remote work with teams in the US, Canada, UK, Ireland and Germany (Mon to Fri, 7:00 PM to 3:00 AM PKT).
 
-[Portfolio](https://hira299.github.io/) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [Email](mailto:hira229922@gmail.com) · [ORCID](https://orcid.org/0009-0005-3219-7252)
+[Portfolio](https://hiraahmed.me/) · [Resume](https://hiraahmed.me/Hira_Ahmed_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [Email](mailto:hira229922@gmail.com) · [ORCID](https://orcid.org/0009-0005-3219-7252)
 
 ## What I work on
 
@@ -22,12 +22,12 @@ Karachi, Pakistan. Open to remote work.
 
 ## Professional work (TechPotion.ai)
 
-Production work as Backend & AI Automation Engineer. Client and internal details are not published.
+QA Lead (Sep 2026 to present) and Backend & AI Automation Engineer (Jan 2025 to Sep 2026). Client and internal details are not published.
 
-- **[28K+ production AI enrichment pipeline](https://hira299.github.io/case-studies/28k-record-pipeline/):** status-driven PostgreSQL pipeline with 4 sequential LLM stages (including translation into 9 languages) over 28,000+ records; 5.6x processing speedup, as reported
-- **[AWS infrastructure and cost optimization](https://hira299.github.io/case-studies/aws-cost-optimization/):** monthly AWS costs for the same platform reduced by 34%
-- **[Multi-tenant B2B SaaS QA](https://hira299.github.io/case-studies/multitenant-saas-qa/):** lead QA on PharmaConnect across 20 end-to-end journeys and 6 roles; 80+ defects documented with API-level evidence and 11 critical P1 findings
-- 678+ defects identified and documented across all of my QA engagements
+- **[28K+ production AI enrichment pipeline](https://hiraahmed.me/case-studies/28k-record-pipeline/):** status-driven PostgreSQL pipeline with 4 sequential LLM stages (including translation into 9 languages) over 28,000+ records; 5.6x processing speedup, as reported
+- **[AWS infrastructure and cost optimization](https://hiraahmed.me/case-studies/aws-cost-optimization/):** monthly AWS costs for the same platform reduced by 34%
+- **[Multi-tenant B2B SaaS QA](https://hiraahmed.me/case-studies/multitenant-saas-qa/):** lead QA on PharmaConnect across 20 end-to-end journeys and 6 roles; 110+ defects documented with API-level evidence and 11 critical P1 findings, and 75 closed fixes
+- 1,500+ defects identified and documented across four concurrent client QA contracts (PharmaConnect, Tekruiter, ToolPotion, AI Cloud Academy)
 
 ## Research: Sentinel-Mesh and CloudFix-Bench
 
@@ -49,7 +49,7 @@ Also: peer reviewer for IEEE Access (5 verified reviews on [Web of Science](http
 | Project | What it shows |
 |---|---|
 | [AI-Autonomous-Email-Agent](https://github.com/hira299/AI-Autonomous-Email-Agent) | Stateful n8n email agent with per-thread memory and Groq inference |
-| [Cloud-Security-Audit-Compliance-Automation-Platform](https://github.com/hira299/Cloud-Security-Audit-Compliance-Automation-Platform) | AWS audit pipeline with a persistent audit trail and a DLQ replay workflow |
+| [Cloud-Security-Audit-Compliance-Automation-Platform](https://github.com/hira299/Cloud-Security-Audit-Compliance-Automation-Platform) | Multi-account AWS audit with 60+ checks across services, mapped to the official AWS benchmark, plus a persistent audit trail and a DLQ replay workflow |
 | [Financial-Profitability-Guardrail](https://github.com/hira299/Financial-Profitability-Guardrail) | PostgreSQL state machine that alerts only on state transitions |
 | [Autonomous-Competitor-Intelligence-SEO-Pipeline](https://github.com/hira299/Autonomous-Competitor-Intelligence-SEO-Pipeline) | Scheduled AI pipeline with defensive JSON parsing and a scraper DLQ |
 | [Cloud-Cost-Sentinel](https://github.com/hira299/Cloud-Cost-Sentinel) | AWS cost anomaly detection with a rolling baseline |
@@ -71,4 +71,4 @@ I take on remote projects in:
 - AI agents and LLM pipelines
 - B2B SaaS QA, API testing, and multi-tenant testing
 
-[Portfolio](https://hira299.github.io/) · [Upwork](https://www.upwork.com/freelancers/~0178616a4e00b82166) · [Fiverr](https://www.fiverr.com/hira299) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [hira229922@gmail.com](mailto:hira229922@gmail.com)
+[Portfolio](https://hiraahmed.me/) · [Upwork](https://www.upwork.com/freelancers/~0178616a4e00b82166) · [Fiverr](https://www.fiverr.com/hira299) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [hira229922@gmail.com](mailto:hira229922@gmail.com)
