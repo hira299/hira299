@@ -10,7 +10,7 @@ I build AI automation, AI agents, and LLM pipelines that keep working when model
 
 Karachi, Pakistan. Open to remote work with teams in the US, Canada, UK, Ireland and Germany (Mon to Fri, 7:00 PM to 3:00 AM PKT).
 
-[Portfolio](https://hiraahmed.me/) · [Resume](https://hiraahmed.me/Hira_Ahmed_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [Email](mailto:hira229922@gmail.com) · [ORCID](https://orcid.org/0009-0005-3219-7252)
+[Portfolio](https://hiraahmed.me/) · [All case studies](https://hiraahmed.me/case-studies/) · [Resume](https://hiraahmed.me/Hira_Ahmed_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/hira-ahmed-4068402a7) · [Email](mailto:hira229922@gmail.com) · [ORCID](https://orcid.org/0009-0005-3219-7252)
 
 ## What I work on
 
@@ -27,7 +27,7 @@ QA Lead (Sep 2026 to present) and Backend & AI Automation Engineer (Jan 2025 to 
 - **[28K+ production AI enrichment pipeline](https://hiraahmed.me/case-studies/28k-record-pipeline/):** status-driven PostgreSQL pipeline with 4 sequential LLM stages (including translation into 9 languages) over 28,000+ records; 5.6x processing speedup, as reported
 - **[AWS infrastructure and cost optimization](https://hiraahmed.me/case-studies/aws-cost-optimization/):** monthly AWS costs for the same platform reduced by 34%
 - **[Multi-tenant B2B SaaS QA](https://hiraahmed.me/case-studies/multitenant-saas-qa/):** lead QA on PharmaConnect across 20 end-to-end journeys and 6 roles; 110+ defects documented with API-level evidence and 11 critical P1 findings, and 75 closed fixes
-- 1,500+ defects identified and documented across four concurrent client QA contracts (PharmaConnect, Tekruiter, ToolPotion, AI Cloud Academy)
+- 1,500+ defects identified and documented across four concurrent client QA contracts ([PharmaConnect](https://hiraahmed.me/case-studies/multitenant-saas-qa/), [Tekruiter](https://hiraahmed.me/case-studies/tekruiter-qa/), [ToolPotion](https://hiraahmed.me/case-studies/toolpotion-qa/), [AI Cloud Academy](https://hiraahmed.me/case-studies/ai-cloud-academy-qa/))
 
 ## Research: Sentinel-Mesh and CloudFix-Bench
 
@@ -40,7 +40,7 @@ QA Lead (Sep 2026 to present) and Backend & AI Automation Engineer (Jan 2025 to 
 
 Preprint on Research Square, manuscript under review. Lead author.
 
-[Research Square preprint](https://www.researchsquare.com/article/rs-10674271/latest) · [CloudFix-Bench on Zenodo](https://doi.org/10.5281/zenodo.20975067) · [Code](https://github.com/hira299/sentinel-mesh) · [Technical article on Medium](https://medium.com/@hira299/beyond-heuristics-formally-verifying-ai-generated-infrastructure-with-z3-smt-solvers-e95fd3a7bf95)
+[Research Square preprint](https://www.researchsquare.com/article/rs-10674271/latest) · [CloudFix-Bench on Zenodo](https://doi.org/10.5281/zenodo.20975067) · [Code](https://github.com/hira299/sentinel-mesh) · [Case study](https://hiraahmed.me/case-studies/sentinel-mesh/) · [Technical article on Medium](https://medium.com/@hira299/beyond-heuristics-formally-verifying-ai-generated-infrastructure-with-z3-smt-solvers-e95fd3a7bf95)
 
 Also: peer reviewer for IEEE Access (5 verified reviews on [Web of Science](https://www.webofscience.com/wos/author/record/QIV-1552-2026)). B.S. Cybersecurity, Sir Syed University of Engineering & Technology.
 
@@ -48,14 +48,12 @@ Also: peer reviewer for IEEE Access (5 verified reviews on [Web of Science](http
 
 | Project | What it shows |
 |---|---|
-| [AI-Autonomous-Email-Agent](https://github.com/hira299/AI-Autonomous-Email-Agent) | Stateful n8n email agent with per-thread memory and Groq inference |
-| [Cloud-Security-Audit-Compliance-Automation-Platform](https://github.com/hira299/Cloud-Security-Audit-Compliance-Automation-Platform) | Multi-account AWS audit with 60+ checks across services, mapped to the official AWS benchmark, plus a persistent audit trail and a DLQ replay workflow |
+| [AI-Autonomous-Email-Agent](https://github.com/hira299/AI-Autonomous-Email-Agent) ([case study](https://hiraahmed.me/case-studies/n8n-email-agent/)) | Stateful n8n email agent with per-thread memory and Groq inference |
+| [Cloud-Security-Audit-Compliance-Automation-Platform](https://github.com/hira299/Cloud-Security-Audit-Compliance-Automation-Platform) | Multi-account AWS audit with 60+ checks across services, mapped to the official AWS benchmark, plus a persistent audit trail and a DLQ replay workflow ([case study](https://hiraahmed.me/case-studies/cloud-compliance/)) |
 | [Financial-Profitability-Guardrail](https://github.com/hira299/Financial-Profitability-Guardrail) | PostgreSQL state machine that alerts only on state transitions |
 | [Autonomous-Competitor-Intelligence-SEO-Pipeline](https://github.com/hira299/Autonomous-Competitor-Intelligence-SEO-Pipeline) | Scheduled AI pipeline with defensive JSON parsing and a scraper DLQ |
 | [Cloud-Cost-Sentinel](https://github.com/hira299/Cloud-Cost-Sentinel) | AWS cost anomaly detection with a rolling baseline |
-| [vektor-ats-diagnostics](https://github.com/hira299/vektor-ats-diagnostics) | Multimodal document parsing and weighted evaluation engine |
 | [browser-forensics-reconstruction](https://github.com/hira299/browser-forensics-reconstruction) | DFIR tool that reconstructs browser session timelines |
-| [aegis-realtime-voice-dispatch](https://github.com/hira299/aegis-realtime-voice-dispatch) | Real-time voice command dispatch dashboard |
 
 ## Open technical resources
 
